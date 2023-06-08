@@ -4,6 +4,6 @@
 
 ```
 
-é uma boa prática todo projeto ter um bom READ ME
+node app.js
 
 ```
